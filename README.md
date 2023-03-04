@@ -1,5 +1,5 @@
 # Keyword-Scraping-AcademicJournal
-This Keyword Scraping program specifically used for Academic Journals was developed during a group project at university.  
+This Keyword Scraping program specifically used for Academic Journals was developed during a group project at University.  
 Wouldn't have been possible without the help of my group members, so a thank you for their contributions too.  
 #### The Idea  
 The idea behind this scraping program is based on keywords.  
